@@ -91,15 +91,17 @@ export default {
   margin: 50px;
 }
 .video-button {
-  background-color: #007BFF;
-  color: white;
-  border: none;
-  padding: 5px 10px;
-  cursor: pointer;
-  margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+
 }
 .video-button:hover {
-  background-color: #0056b3;
+  border-color: #646cff;
 }
 .modal-overlay {
   position: fixed;
