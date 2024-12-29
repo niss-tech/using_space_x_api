@@ -59,12 +59,12 @@ Assurez-vous d'avoir les logiciels suivants installés sur votre machine :
    npm install
 
 
-4. Ouvrez votre navigateur et accédez à l'application via :
+4. Lancez le serveur de développement :
    ```bash
    npm run dev
 
 
-5. Clonez le repository :
+5. Ouvrez votre navigateur et accédez à l'application via :
    ```bash
    http://localhost:5173
    
