@@ -71,5 +71,10 @@ Assurez-vous d'avoir les logiciels suivants installés sur votre machine :
     
 ## Aperçu de l'application
 
+![Texte alternatif](my-vue-app/src/assets/screen_cards.png)
+
+![Texte alternatif](my-vue-app/src/assets/screen_title.png)
+
+
 
 
